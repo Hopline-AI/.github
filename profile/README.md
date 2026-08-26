@@ -1,8 +1,6 @@
 <div align="center">
   <img src="./readme-banner-v2.png" alt="Hopline" width="100%">
   <h1>Hopline</h1>
-  <p><strong>We solve deep tech and specialised systems end to end.</strong><br>
-  Where the hard part is the system, not the headcount.</p>
   <p>
     <a href="https://hopline.co">hopline.co</a> ·
     <a href="mailto:contact@hopline.co">contact@hopline.co</a>
