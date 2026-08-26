@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./readme-banner.png" alt="Hopline" width="100%">
+  <img src="./readme-banner-v2.png" alt="Hopline" width="100%">
   <h1>Hopline</h1>
   <p><strong>We turn vision and ideas into products.</strong><br>
   A product studio and open workshop. We build with you, not at you.</p>
